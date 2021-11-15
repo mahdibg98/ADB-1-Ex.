@@ -69,6 +69,7 @@ button{
     font-size: 400px;
     text-transform: uppercase;
     overflow: hidden;
+    margin-bottom: 20px;
 }
 
 .left-padding{
