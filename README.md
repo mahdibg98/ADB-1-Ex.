@@ -1,3 +1,3 @@
-# ADB-1-Ex.
+# ADB-2-Ex.
 
-first exercise for AdavncedDataBase
+secound exercise for AdavncedDataBase
